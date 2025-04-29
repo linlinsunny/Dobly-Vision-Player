@@ -17,7 +17,7 @@ python DoblyVisionPlayer.py
 #### Alternatively, you can directly download the packaged executable file.
 > Note: This is limited to macOS.
 ---
-![pic](image.png)
+![pic](https://github.com/linlinsunny/Dobly-Vision-Player/blob/main/image.png)
 ---
 # 使用 MPV 播放电脑上的杜比视界视频
 ## 安装 MPV:
